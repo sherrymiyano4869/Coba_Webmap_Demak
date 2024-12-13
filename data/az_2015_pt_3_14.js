@@ -1,1 +1,0 @@
-var json_az_2015_pt_3_14 = {"type":"FeatureCollection","name":"az_2015_pt_3_14","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"field_1":110.8,"field_2":-7.0,"field_3":118.5,"AZ1":283.46355},"geometry":{"type":"Point","coordinates":[110.8,-7.0]}}]}
